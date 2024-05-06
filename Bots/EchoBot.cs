@@ -50,7 +50,7 @@ namespace ChatBot2.Bots
             }
            else if (question.ToLower() == "what is my name ?")
             {
-                returnMessage = "Durgesh Pandey";
+                returnMessage = "Xyz";
             }
            else if (question.ToLower() =="are you a robot?")
             {
